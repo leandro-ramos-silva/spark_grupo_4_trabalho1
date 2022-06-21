@@ -1,0 +1,12 @@
+
+Projeto Trabalho 1
+
+
+validar fila 
+
+/opt/app/kafka-server/kafka_2.13-3.2.0/bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic raw_message --from-beginning
+
+CMAK
+cd /opt/app/cmak/CMAK/target/universal/cmak-3.0.0.6
+
+sudo bin/cmak

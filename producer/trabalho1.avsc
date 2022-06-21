@@ -1,0 +1,14 @@
+{
+            "name":"Operacao",
+            "namespace": "avro.trabalho1",
+            "type": "record",
+            "fields": [
+                {"name": "codigo_cliente", "type": "string"},
+                {"name": "agencia", "type": "int"},
+                {"name": "valor_operacao", "type": "int"},
+                {"name": "tipo_operacao", "type": "string"},
+                {"name": "data", "type": "double"},
+                {"name": "saldo_conta", "type": "int"}
+
+              ]
+        }
